@@ -27,7 +27,7 @@ For the assignment this week, you will step through the process of:
 **Note**: Please watch all the videos for Week 1 on [the Tier 1 site](https://fullstack.emergingacademy.org/) before starting the assignment. These videos contain important information that will help you complete the assignment. Feel free to refer back to these videos whenever you need them.
 
 ### 1 | Create a folder for your work
-We recommend you create a dedicated folder for your Prime Tier 1 assignments. Call your folder something like *tier1*. For step-by-step instructions, check out the Week 1 videos, or take a look at the Step 1 [extended instructions](extended-instructions.md). You can clone your assignment repos into this folder (more on this in the next step).
+We recommend you create a dedicated folder for your EDA Tier 1 assignments. Call your folder something like *tier1*. For step-by-step instructions, check out the Week 1 videos, or take a look at the Step 1 [extended instructions](extended-instructions.md). You can clone your assignment repos into this folder (more on this in the next step).
 
 ### 2 | Getting the assignment onto your computer
 
@@ -44,7 +44,7 @@ We recommend you create a dedicated folder for your Prime Tier 1 assignments. Ca
 
 **Option 2: From Atom Instructions**
 1. Open Atom.
-2. Select File > Open from the main menu and browse to the *prime-pw-week-1-assignment* folder to open. You'll see your folder listed in the left panel in Atom.
+2. Select File > Open from the main menu and browse to the *eda-pw-week-1-assignment* folder to open. You'll see your folder listed in the left panel in Atom.
 
 ### 4 | Completing your assignment (base functionality)
 
