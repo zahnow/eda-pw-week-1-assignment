@@ -1,6 +1,6 @@
 # EDA Tier 1 Week 1
 
-Welcome to Tier 1 at Digital Academy! In week 1, we're getting you set up with the basics.
+Welcome to Tier 1 at Emerging Digital Academy! In week 1, we're getting you set up with the basics.
 
 Click the link below to set up Atom:
 
