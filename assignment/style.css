@@ -22,11 +22,11 @@ header, footer {
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
-    color: whitesmoke;
 }
 
 /* Make your p tag a different color and italic */
 p {
+    color: whitesmoke;;
     text-align: center;
     font-style: italic;
 }
